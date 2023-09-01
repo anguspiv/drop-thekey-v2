@@ -17,7 +17,7 @@ indent_style = tab
 
 [*.{js,json}]
 indent_size = 2
-insert_final_newline = space
+indent_style = space
 
 [*.{md,mdx}]
 trim_trailing_whitespace = false
